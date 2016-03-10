@@ -3,7 +3,7 @@
 Featuring:
 
 - an infinite field (dynamic resizing);
-- moderately efficient (not like the O(1) C implementations); and
+- efficient in CPU and memory; and
 - a simple implementation in Python.
 
 It only stores living cells (memory efficient) and only processes living cells
